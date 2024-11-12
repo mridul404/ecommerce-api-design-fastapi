@@ -24,8 +24,7 @@ This is a RESTful API for an e-commerce platform built with **FastAPI** and **Po
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/mridul404/ecommerce-api-design-fastapi
-.git
+   git clone https://github.com/mridul404/ecommerce-api-design-fastapi.git
    cd ecommerce-fastapi
    ```
 
